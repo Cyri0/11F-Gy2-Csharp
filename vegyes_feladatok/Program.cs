@@ -1,8 +1,12 @@
-﻿namespace vegyes_feladatok
+﻿using System;
+
+namespace vegyes_feladatok
 {
     internal class Program
     {
-        static void feladat1() { }
+        static void feladat1() {
+            Console.WriteLine("Nem tudom megcsinálni ezt a feladatot");
+        }
 
         static void feladat2() { }
 

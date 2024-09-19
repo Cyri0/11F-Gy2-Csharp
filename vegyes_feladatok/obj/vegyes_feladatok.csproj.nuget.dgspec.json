@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nemes.tamas\\source\\repos\\vegyes_feladatok\\vegyes_feladatok.csproj": {}
+    "C:\\Users\\nemes.tamas\\Documents\\11F-Gy2-Csharp\\vegyes_feladatok\\vegyes_feladatok.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nemes.tamas\\source\\repos\\vegyes_feladatok\\vegyes_feladatok.csproj": {
+    "C:\\Users\\nemes.tamas\\Documents\\11F-Gy2-Csharp\\vegyes_feladatok\\vegyes_feladatok.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nemes.tamas\\source\\repos\\vegyes_feladatok\\vegyes_feladatok.csproj",
+        "projectUniqueName": "C:\\Users\\nemes.tamas\\Documents\\11F-Gy2-Csharp\\vegyes_feladatok\\vegyes_feladatok.csproj",
         "projectName": "vegyes_feladatok",
-        "projectPath": "C:\\Users\\nemes.tamas\\source\\repos\\vegyes_feladatok\\vegyes_feladatok.csproj",
+        "projectPath": "C:\\Users\\nemes.tamas\\Documents\\11F-Gy2-Csharp\\vegyes_feladatok\\vegyes_feladatok.csproj",
         "packagesPath": "C:\\Users\\nemes.tamas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nemes.tamas\\source\\repos\\vegyes_feladatok\\obj\\",
+        "outputPath": "C:\\Users\\nemes.tamas\\Documents\\11F-Gy2-Csharp\\vegyes_feladatok\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nemes.tamas\\AppData\\Roaming\\NuGet\\NuGet.Config",
